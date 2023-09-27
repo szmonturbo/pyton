@@ -62,3 +62,105 @@ while 0 <= inp:
     inp -= 1
 print('Tyle jest liczb ', suma)
 print('suma_liczb ',   suma_liczb)
+
+
+
+1
+
+lista = []
+
+while true:
+
+    inp = input[]
+
+    if inp == 'stop':
+
+        breakinp = float(inp)
+
+        if inp >= 1 and inp <=200:
+
+            lista.append(inp)
+
+        else:
+
+            print("liczba po za wymaganym zakresem liczbowym")
+
+            
+
+print(lista)
+
+
+
+
+
+
+
+
+
+
+
+2
+
+nowa lista = []
+
+i = 0
+
+while i < len(lista) :
+
+    if lista[i] > 50 and lista[i] < 70 and lista [i] & 2 == 0:
+
+        nowa_lista.append(lista[i])
+
+        i += 1
+
+        print(nowa_lista)
+
+        
+
+
+
+
+
+3
+
+oceny = []
+
+while true:
+
+    inp = input()
+
+    if inp == "stop" :
+
+        break
+
+    inp = float(inp)
+
+    if inp <= 6 and inp >= 1:
+
+        oceny.append(inp)
+
+    else:
+
+        print("podales złe liczby Nobie!")
+
+        print(sum(oceny)/len(oceny)
+
+              
+
+
+
+
+
+
+
+4
+
+inp = input()
+
+i = 0
+
+while i < len(inp):
+
+print(inp[i])
+
+i <= 1
